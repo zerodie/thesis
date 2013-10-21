@@ -4,3 +4,28 @@
 \contentsline {chapter}{中文摘要}{vii}
 \contentsline {chapter}{Abstract}{ix}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}
+\contentsline {section}{\numberline {1.2}Objectives}{1}
+\contentsline {chapter}{\numberline {2}Background and Related Work}{3}
+\contentsline {section}{\numberline {2.1}Preliminary Work}{3}
+\contentsline {section}{\numberline {2.2}Related Work}{3}
+\contentsline {chapter}{\numberline {3}Methodoloy}{5}
+\contentsline {section}{\numberline {3.1}Framework}{5}
+\contentsline {section}{\numberline {3.2}Problem Definition}{5}
+\contentsline {subsection}{\numberline {3.2.1}Terminology and Notation}{5}
+\contentsline {subsection}{\numberline {3.2.2}Input and Output}{5}
+\contentsline {section}{\numberline {3.3}Word-to-word Similarity}{5}
+\contentsline {subsection}{\numberline {3.3.1}Bag-to-bag Similarity}{5}
+\contentsline {subsection}{\numberline {3.3.2}Vector-based Similarity}{5}
+\contentsline {section}{\numberline {3.4}Clustering}{5}
+\contentsline {section}{\numberline {3.5}Ensembled Methods}{5}
+\contentsline {section}{\numberline {3.6}Walk-through Example}{5}
+\contentsline {chapter}{\numberline {4}Experiment}{7}
+\contentsline {section}{\numberline {4.1}Dataset}{7}
+\contentsline {section}{\numberline {4.2}Evaluation Metrics}{7}
+\contentsline {section}{\numberline {4.3}Experimental Result}{7}
+\contentsline {section}{\numberline {4.4}Human Experiment}{7}
+\contentsline {section}{\numberline {4.5}Discussion}{7}
+\contentsline {chapter}{\numberline {5}Conclusion}{9}
+\contentsline {section}{\numberline {5.1}Summary of Contributions}{9}
+\contentsline {section}{\numberline {5.2}Future Work}{9}

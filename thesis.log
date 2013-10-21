@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.20)  21 OCT 2013 15:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.20)  21 OCT 2013 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -741,9 +741,29 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 
 ] (./introduction.tex
 Chapter 1.
-) [1
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+) (./related_work.tex [1
 
 ] [2
+
+]
+Chapter 2.
+) (./methodology.tex [3] [4
+
+]
+Chapter 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+) (./experiment.tex [5] [6
+
+]
+Chapter 4.
+) (./conclusion.tex [7] [8
+
+]
+Chapter 5.
+) [9] [10
 
 ] (./thesis.aux)
 
@@ -752,11 +772,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4988 strings out of 493315
- 68032 string characters out of 6137904
- 132119 words of memory out of 5000000
- 8033 multiletter control sequences out of 15000+600000
- 77206 words of font info for 235 fonts, out of 8000000 for 9000
+ 5008 strings out of 493315
+ 68314 string characters out of 6137904
+ 132121 words of memory out of 5000000
+ 8039 multiletter control sequences out of 15000+600000
+ 81472 words of font info for 241 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,12n,27p,232b,987s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -825,10 +845,10 @@ xlive/2013/texmf-dist/fonts/type1/arphic/bkaiu/bkaiuff.pfb></usr/local/texlive/
 2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (20 pages, 303555 bytes).
+Output written on thesis.pdf (28 pages, 311241 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
+ 444 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
